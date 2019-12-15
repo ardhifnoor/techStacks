@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "title": "Webpack",
+        "description": "Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included."
+    },
+    {
+        "id": 1,
+        "title": "React",
+        "description": "React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies."
+    },
+    {
+        "id": 2,
+        "title": "Redux",
+        "description": "Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces."
+    },
+    {
+        "id": 3,
+        "title": "React-Redux",
+        "description": "React Redux is the official React binding for Redux. It lets your React components read data from a Redux store, and dispatch actions to the store to update data."
+    }
+]
